@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        VideoOnzeDesafioDois VideoOnzeDesafioDois = new VideoOnzeDesafioDois();
-        VideoOnzeDesafioDois.execute();
+        VideoCatorzeDesafioDois videoCatorzeDesafioDois = new VideoCatorzeDesafioDois();
+        videoCatorzeDesafioDois.execute();
     }
 }
